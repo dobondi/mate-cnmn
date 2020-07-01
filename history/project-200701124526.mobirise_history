@@ -63,7 +63,9 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "publishType": "local",
+    "publishPath": "file:///D:/Depozit/Documents/NOU%20SITE/Oficial%20nou%2029.6"
   },
   "pages": {
     "index.html": {
