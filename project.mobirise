@@ -1,10 +1,10 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 136,
-    "versionPublish": "4.10.10",
+    "versionPublish": "5.3.0",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -63,9 +63,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false,
-    "publishType": "local",
-    "publishPath": "file:///D:/Depozit/Documents/NOU%20SITE/Oficial%20nou%207.1"
+    "gdpr": false
   },
   "pages": {
     "index.html": {
@@ -576,7 +574,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-black-outline\" href=\"http://www.isjbacau.ro/compartiment-curriculum/matematica/alte-documente/concursuri-scolare-si-olimpiade/subiecte-si-bareme-ojm-2018/at_download/file\">2018</a> <a class=\"btn btn-black-outline\" href=\"http://www.mategl.com/atasamente%20pentru%20site/OJM%202017.rar\" target=\"_blank\">2017</a> <a class=\"btn btn-black-outline\" href=\"http://www.mategl.com/atasamente%20pentru%20site/OJM%202016.rar\" target=\"_blank\">2016</a> <a class=\"btn btn-black-outline\" href=\"http://www.mategl.com/atasamente%20pentru%20site/OJM%202015.rar\">2015</a> <a class=\"btn btn-black-outline\" href=\"http://www.mategl.com/atasamente%20pentru%20site/OJM%202014.rar\">2014</a> <a class=\"btn btn-black-outline\" href=\"http://www.mategl.com/atasamente%20pentru%20site/OJM%20%202013.rar\" target=\"_blank\">2013</a> <a class=\"btn btn-black-outline\" href=\"http://www.mategl.com/atasamente%20pentru%20site/OJM%20%202012.rar\">2012</a> <a class=\"btn btn-black-outline\" href=\"http://www.mategl.com/atasamente%20pentru%20site/OJM%202011.rar\">2011</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-black-outline\" href=\"assets/files/Olimpiada-SSMR2021.pdf\" data-app-placeholder=\"Type Text\">2021 - SSMR</a> <a class=\"btn btn-black-outline\" href=\"http://www.isjbacau.ro/compartiment-curriculum/matematica/alte-documente/concursuri-scolare-si-olimpiade/subiecte-si-bareme-ojm-2018/at_download/file\" data-app-placeholder=\"Type Text\">2018</a> <a class=\"btn btn-black-outline\" href=\"http://www.mategl.com/atasamente%20pentru%20site/OJM%202017.rar\" target=\"_blank\" data-app-placeholder=\"Type Text\">2017</a> <a class=\"btn btn-black-outline\" href=\"http://www.mategl.com/atasamente%20pentru%20site/OJM%202016.rar\" target=\"_blank\" data-app-placeholder=\"Type Text\">2016</a> <a class=\"btn btn-black-outline\" href=\"http://www.mategl.com/atasamente%20pentru%20site/OJM%202015.rar\" data-app-placeholder=\"Type Text\">2015</a> <a class=\"btn btn-black-outline\" href=\"http://www.mategl.com/atasamente%20pentru%20site/OJM%202014.rar\" data-app-placeholder=\"Type Text\">2014</a> <a class=\"btn btn-black-outline\" href=\"http://www.mategl.com/atasamente%20pentru%20site/OJM%20%202013.rar\" target=\"_blank\" data-app-placeholder=\"Type Text\">2013</a> <a class=\"btn btn-black-outline\" href=\"http://www.mategl.com/atasamente%20pentru%20site/OJM%20%202012.rar\" data-app-placeholder=\"Type Text\">2012</a> <a class=\"btn btn-black-outline\" href=\"http://www.mategl.com/atasamente%20pentru%20site/OJM%202011.rar\" data-app-placeholder=\"Type Text\">2011</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qTVpNyv2wv",
           "_anchor": "content8-1a",
           "_protectedParams": [],
@@ -1723,7 +1721,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-black-outline\" href=\"assets/files/Proiectul%20Euromath.docx\" data-app-placeholder=\"Type Text\">Euromath<br></a> <a class=\"btn btn-black-outline\" href=\"assets/files/Bodrogean_Ovidiu_moise%20100.docx\" data-app-placeholder=\"Type Text\">Erasmus<br></a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-black-outline\" href=\"assets/files/Proiectul%20Euromath.docx\" data-app-placeholder=\"Type Text\">Euromath<br></a> <a class=\"btn btn-black-outline\" href=\"assets/files/Bodrogean_Ovidiu_moise%20100.docx\" data-app-placeholder=\"Type Text\">Erasmus<br></a> <a class=\"btn btn-black-outline\" href=\"assets/files/Premii-Concursfilmulee.docx\" data-app-placeholder=\"Type Text\">Concursul de filmulețe<br></a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content8-3r",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
